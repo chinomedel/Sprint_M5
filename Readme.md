@@ -13,9 +13,9 @@
 Equipo 2: El Piero tiene sueño.
 
 Integrantes:
-* [Pamela Correa](https://github.com/Pame-b182/Enlace)
-* [Nelson Medel](https://github.com/chinomedel/Enlace)
-* [Sebastián Muñoz](https://github.com/SebMunz/Enlace)
+* [Pamela Correa](https://github.com/Pame-b182/Sprint_M5)
+* [Nelson Medel](https://github.com/chinomedel/Sprint_M5)
+* [Sebastián Muñoz](https://github.com/SebMunz/Sprint_M5)
 
 ***
 ### 2. Información General <a name="Información-General"></a>
